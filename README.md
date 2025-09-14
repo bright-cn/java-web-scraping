@@ -139,4 +139,4 @@ public static void writeCsvFile(String link, String price) throws IOException {
 
 ## 结论
 
-尽管 Java 可以帮助各类从业者提取所需数据，但网页抓取过程可能相当耗时。若希望全面自动化数据采集流程，你可以使用 Bright Data 的 [Web Scraping API](https://brightdata.com/products/web-scraper)。你只需选择目标网站和输出数据集，然后设定所需的计划、文件格式与交付方式即可。
+尽管 Java 可以帮助各类从业者提取所需数据，但网页抓取过程可能相当耗时。若希望全面自动化数据采集流程，你可以使用 Bright Data 的 [Web Scraping API](https://www.bright.cn/products/web-scraper)。你只需选择目标网站和输出数据集，然后设定所需的计划、文件格式与交付方式即可。
